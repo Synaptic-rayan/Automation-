@@ -15,6 +15,6 @@ def download_video(url, output_path):
         print(f"An error occurred: {str(e)}")
 
 # Example usage
-video_url = "https://youtu.be/G9F8VtqNhzo"
-output_directory = "C:\ Users\ rayan\ OneDrive\ Desktop"
+video_url = "Enter url"
+output_directory = "Set path"
 download_video(video_url, output_directory)
